@@ -5,6 +5,7 @@
 API desenvolvida para a disciplina de projeto integrado de aplicações da Universidade PUC Minas em parceria com a empresa S.S Telemática.
 
 **Tecnologia**
+----
 - Express 4.17.1
 - bcryptjs 2.4.3
 - jsonwebtoken 8.5.1
