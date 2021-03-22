@@ -13,6 +13,7 @@ API desenvolvida para a disciplina de projeto integrado de aplicações da Unive
 - PostgreSQL
 
 **Instalação**
+----
 ```
 npm install
 ```
@@ -22,4 +23,5 @@ node server.js
 ```
 
 **Documentação da API**
+----
 <a href="https://documenter.getpostman.com/view/12921403/Tz5wXuYJ" target="_blank">https://documenter.getpostman.com/view/12921403/Tz5wXuYJ</a>
