@@ -1,8 +1,8 @@
 module.exports = {
-    HOST: "localhost",
-    USER: "postgres",
-    PASSWORD: "alfaedge",
-    DB: "dashboardApi",
+    HOST: "dashboardapi.postgresql.dbaas.com.br",
+    USER: "dashboardapi",
+    PASSWORD: "pucminas@21",
+    DB: "dashboardapi",
     dialect: "postgres",
     pool: {
         max: 5,
